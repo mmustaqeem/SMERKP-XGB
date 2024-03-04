@@ -49,5 +49,5 @@ def load_and_evaluate_model(model_path, test_data_path):
 
 # Usage
 model_path = '/smerkp_xgb_model-2.joblib'  # Confirm this is the correct path where your model is saved
-test_data_path = '/kaggle/input/pc1dataset/csv_result-PC1-New1.csv'  # Confirm this is the correct path of your test data
+test_data_path = 'csv_result-PC1-New1.csv'  # Confirm this is the correct path of your test data
 load_and_evaluate_model(model_path, test_data_path)
