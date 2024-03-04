@@ -1,0 +1,28 @@
+Running the Model
+
+1. Install Necessary Libraries
+
+To run the provided script or notebook, make sure you have the required Python libraries installed. You can install them by running:
+pip install -r requirements.txt
+Make sure you have Python and pip installed on your system before executing this command.
+
+2. Run the Script or Notebook
+
+For Jupyter Notebook:
+Open a terminal.
+Navigate to the directory containing the notebook.
+Run the following command:
+jupyter notebook YourNotebookName.ipynb
+Replace "YourNotebookName" with the actual name of the notebook.
+
+For Python Script:
+Open a terminal.
+Navigate to the directory containing the script.
+Run the following command:
+python YourScriptName.py
+Replace "YourScriptName" with the actual name of the script.
+
+
+Note:
+Ensure you have Jupyter Notebook or Jupyter Lab installed if you're using a notebook. For scripts, you can run them directly in a Python environment.
+Confirm the availability of the necessary dataset files in the specified paths, and verify the correctness of the paths before running the code.
